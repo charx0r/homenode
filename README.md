@@ -1,4 +1,4 @@
-homenode
+Homenode
 ========
 
 Automate your house using Nodejs
